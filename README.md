@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 I'm Parintorn
 
-<!--
-**GuyParintorn/GuyParintorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+- 🌐 **Full Stack Developer** | Building apps from frontend to backend  
+- ☕ Coffee & JavaScript enthusiast  
+- ❤️ Passionate about **Open Source**  
+- 🔭 Currently working on exciting web projects  
+- 🌱 Always learning new frameworks and tools  
+- 👯 Looking to collaborate on meaningful projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+- Email: Parintorn.Yaimai@ugp.ac.th
+- 
+### ⚡ Fun Fact
+I love solving coding challenges while sipping a perfect cup of coffee! ☕💻
